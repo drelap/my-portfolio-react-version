@@ -1,0 +1,179 @@
+{
+    "main": {
+        "name" : "Yahya Andreas Lapian",
+        "description": "I am a software engineer",
+        "image":"linkedin-profile.jpg",
+        "github":"https://github.com/drelap",
+        "project":"https://drive.google.com/drive/folders/1d9lFMK2PsM3XuF77e4FICgRORo6GBBPJ?usp=sharing",
+        "bio": "Seasoned Software Engineer and System Analyst experienced analyzing and developing applications, databases and cloud computing solutions. Smart professional with proven troubleshooting and debugging capabilities for resolving complex technical issues. Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.",
+        "contactmessage":"Hello, here I am",
+        "email": "y.a.lapian@gmx.com",
+        "phone": "888-1234-5678",
+        "address":{
+            "street":"Jl Taman Margasatwa",
+            "city":"Jakarta Selatan",
+            "state":"DKI Jakarta",
+            "zip": "12540"
+        },
+        "website": "https://github.com/drelap",
+        "resumedownload":"https://drive.google.com/file/d/1jMdA6E4KiPy7X_BuiXZmtRUUz4k3dIlC/view?usp=sharing",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://www.facebook.com/lapian",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"twitter",
+            "url":"https://twitter.com/drelap",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/lapian/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"http://instagram.com/andre_lapian",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/drelap",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Mannheim University of Applied Sciences",
+                "degree": "Dipl.Inform. (FH) / Bachelor of Science degree ",
+                "graduated": "December 1996",
+                "description" : "Subject: Computer Science "
+            }
+        ],
+        "work": [
+            {
+                "company" : "BRIN",
+                "title" : "Senior Engineer",
+                "years": " October 2021 - April 2023",
+                "description": "Leading development's work packages "
+            }, {
+                "company": "BPPT",
+                "title": "Senior Engineer",
+                "years": "October 2014 - September 2021",
+                "description": "Leading various development teams and partaking in developments"
+            }, {
+              "company": "BPPT",
+              "title": "Staff Engineer",
+              "years": "May 1997 - September 2014",
+              "description": "Creating, implementing, maintaining various web/desktop applications "
+            }
+        ],
+        "skills": [
+            {
+                "name" : "C",
+                "level": "80%"
+            },
+            {
+                "name" : "C++",
+                "level": "75%"
+            },
+            {
+                "name": "PHP",
+                "level": "98%"
+            },
+            {
+                "name" : "Java",
+                "level": "80%"
+            },
+            {
+                "name": "Python",
+                "level": "70%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "50%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
+        ]
+    }
+}
